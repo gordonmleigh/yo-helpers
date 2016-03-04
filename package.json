@@ -1,0 +1,13 @@
+{
+  "name": "yo-helpers",
+  "public": true,
+  "version": "0.1.0",
+  "description": "Helper functions for writing yeoman generators",
+  "main": "index.js",
+  "author": "Gordon Mackenzie-Leigh <gordon@stugo.co.uk>",
+  "license": "ISC",
+  "repository": "https://github.com/gordonmleigh/yo-helpers",
+  "keywords": [
+        "yeoman"
+  ]
+}
